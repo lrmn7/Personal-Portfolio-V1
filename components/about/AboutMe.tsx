@@ -10,7 +10,7 @@ const AboutMe = () => {
       </h2>
       <p>
         Hello, my name is <b>L RMN</b>, you can call me{" "}
-        <b>&ldquo;L&rdquo;</b> for short. If you&apos;re my school
+        <b>&quot;L&quot;</b> for short. If you&apos;re my school
         friend you maybe know me as <b>teng</b> or <b>masteng</b>.
       </p>
       <p>
